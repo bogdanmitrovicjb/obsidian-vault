@@ -1,2 +1,3 @@
 - [Git guide](https://youtrack.jetbrains.com/articles/RUBY-A-5?_ga=2.1271153.1789027009.1639999636-1147407214.1632993384)
+- [Licences for various stuff](https://storage.googleapis.com/software-list.intellij.net/server-list.html)
 - 

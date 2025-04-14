@@ -1,0 +1,10 @@
+- New Dev Container -> https://github.com/JetBrains/sample_rails_app_8th_ed -> Build Container and Continue sometimes does nothing, just closes the window, after 3rd try it actually built the container
+- Even though it build the container and started it, the client can't connect to the backend service
+- When you close the IDE from which the devcontainer was started, you get the message that connection is closed, but you can't close the JBC, at least I couldn't as it become unresponsive
+- sometimes it gets stuck on Connecting to remote host after building and running the container (same issue as second point here, just the error appears a lot later)
+- TODO check if icons should look like this? ![[Pasted image 20250410133327.png]]
+- Via `Run/Debug Configuration` on the main toolbar run `Development` configuration. - haven't found this
+- recent files/locations/changes/changed files - recent projects don't appear unless you press Recent Projects -> Manage Projects and in nightly they show when only hovering Recent Projects
+- search in Help works and clickable - yes, but is slow and when you move the cursor away from it and place it back, it freezes sometimes (update, when you switch to another window then back to help, it works)
+- **IDE Feature Training Plugin**
+	- should be available preinstalled - not preinstalled, once I installed it, restart IDE took long ![[Pasted image 20250414142710.png]]

@@ -1,0 +1,1 @@
+TODO rewrite txt here in the same format as devcontainers remdev checklist, now it's only issues and some unstructured comments
