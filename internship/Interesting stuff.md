@@ -1,3 +1,12 @@
 ## To read more about
 - [PCDN](https://jetbrains.team/blog/Downloads_Went_Wild_—_Can_You_Guess_Why%3F) - Chinese torrent? Covering up tracks with IDEs?
+- [monorepo](https://monorepo.tools/#what-is-a-monorepo) but not monolith
+- [build everything](https://bazel.build/start) with one tool
+- [a book on creativity](https://en.wikipedia.org/wiki/Steal_Like_an_Artist)
+- [ktor crm example](https://blog.jetbrains.com/kotlin/2025/04/domain-driven-design-guide/)
+- [book recommendations for interns](https://jetbrains.team/blog/Book_Recommendations_for_Interns)
+- [late binding](https://www.nilebits.com/blog/2023/07/understanding-late-binding-dynamic-objects-and-reflection-in-c-net/)
+- [cancer prevention](https://www.youtube.com/watch?v=YrNWqC9pwo0)
+- [health days](https://youtrack.jetbrains.com/articles/GUIDE-A-2144724360/Health-days-video-recordings)
+- [rider next](https://jetbrains.team/blog/Rider_NEXT%3A_A_Brief_History_of_a_Half-Year_Project_)
 - 

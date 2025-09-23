@@ -8,3 +8,10 @@
 - search in Help works and clickable - yes, but is slow and when you move the cursor away from it and place it back, it freezes sometimes (update, when you switch to another window then back to help, it works)
 - **IDE Feature Training Plugin**
 	- should be available preinstalled - not preinstalled, once I installed it, restart IDE took long ![[Pasted image 20250414142710.png]]
+
+
+
+
+
+### ssh problems
+- should java also be running? ![[Pasted image 20250416100636.png]]

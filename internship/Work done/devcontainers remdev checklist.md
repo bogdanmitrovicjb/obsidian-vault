@@ -137,36 +137,33 @@ Perform for Minitests and RSpec. Run:
 - Import report - [Issue]: Missing option from Run, same as for Profiler: [GTW-2725](https://youtrack.jetbrains.com/issue/GTW-2725/Missing-profiling-options-on-thin-client)
 
 **Profiler** - [no issues with#JBC-243.20847.35]
-
-- run Rails application with profiler (note: it works since Ruby version 2.5.3)
+- run Rails application with profiler (note: it works since Ruby version 2.5.3) 
 - run simple script with Profiler
 - rerun Profiler
 - attach to script with Profiler
 - export/import Profiler results - [Issue]: Missing options are described here: [GTW-2725](https://youtrack.jetbrains.com/issue/GTW-2725/Missing-profiling-options-on-thin-client)
 
 **Navigation** **(non-Rails specific cases)** - [no issues with #JBC-243.15521.8]
-
-- Navigate to class, file, symbol
-- cmd+B
-- Back and Forward
-- Recent files
-- Recent locations popup
+- Navigate to class, file, symbol - ok
+- cmd+B - ok
+- Back and Forward - ok
+- Recent files - ok
+- Recent locations popup - ok
 
 **Navigation** **(Rails specific cases)**
-
 - navigate to `Related Symbol` (see `Related Symbols` action) in Rails project: - Issue [minor]: [RUBY-32869](https://youtrack.jetbrains.com/issue/RUBY-32869/Loading-is-temporarily-displayed-when-Go-To-Related-Symbols-is-called-with-RubyMine-in-Remote-Development)
-    - Through gutters and links in editor
-        - View - Controller - View
-        - Model - Schema - Model
-        - controller's action link - routes - Issue: [RUBY-32888](https://youtrack.jetbrains.com/issue/RUBY-32888/No-links-to-routes-for-controllers-actions-with-RubyMine-in-Remote-Development)
+    - Through gutters and links in editor - ok
+        - View - Controller - View - ok
+        - Model - Schema - Model - ok
+        - controller's action link - routes - Issue: [RUBY-32888](https://youtrack.jetbrains.com/issue/RUBY-32888/No-links-to-routes-for-controllers-actions-with-RubyMine-in-Remote-Development) - ok
     - Through the list of related symbols
-        - Controller
-        - Model
-        - Schema
-        - Routes
-        - Helper
-        - Vews - Issue: [RUBY-32797](https://youtrack.jetbrains.com/issue/RUBY-32797/Views-and-Layouts-are-not-selected-in-project-tree-for-Go-to-Related-symbols-in-Remote-Development)
-        - Layouts
+        - Controller - ok
+        - Model - ok
+        - Schema - ok
+        - Routes - ok
+        - Helper - TODO test
+        - Views - Issue: [RUBY-32797](https://youtrack.jetbrains.com/issue/RUBY-32797/Views-and-Layouts-are-not-selected-in-project-tree-for-Go-to-Related-symbols-in-Remote-Development) - ok
+        - Layouts - ok
 - Check `Endpoints` Tool Window
     - Tool Window's view - ok
     - Navigation to routes:
