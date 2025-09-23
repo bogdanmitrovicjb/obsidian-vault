@@ -75,22 +75,24 @@ Endgame
 - move stuff to other laptop
 - check when can I return the laptop
 - log in to other laptop
+- lokija na friday pets
 
 sta mora danas
 - maintenance guide
-- rails console test
+- rails console test DONE
 - refactor files test
 - refactor ruby test
 - testtreetest
-- allure id commit and push
-- teamcity config commit and push
-- rvm.sh commit and push CEKAM REVIEW
-- move stuff to other laptop
-- check when can I return the laptop
-- log in to other laptop
+- allure id commit and push CEKAM REVIEW
+- teamcity config commit and push CEKAM REVIEW
+- rvm.sh commit and push DONE
+- move stuff to other laptop DONE
+- check when can I return the laptop DONE
+- log in to other laptop DONE
 
 
 sta moze sutra
 - all tests in allure
 - feedback
+- lokija na friday pets
 
